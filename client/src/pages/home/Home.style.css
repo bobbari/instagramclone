@@ -1,0 +1,26 @@
+.home-card {
+  max-width: 600px;
+  height: max-content;
+  margin: 26px auto;
+  border-radius: 15px;
+}
+.header {
+  padding: 10px;
+}
+.card-description {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.favorite-icon {
+  flex: 1;
+  align-self: center;
+}
+.comment-section {
+  flex: 9;
+}
+.loadingWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50vh;
+}

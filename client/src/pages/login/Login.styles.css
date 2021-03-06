@@ -1,0 +1,26 @@
+.loginContainer {
+  display: flex;
+  /* justify-content: center;
+  align-items: center;
+  margin: 20px 0px 0px 0px; */
+  justify-content: space-evenly;
+  width: 100%;
+  margin: auto;
+}
+.loginCard {
+  width: 40vw;
+  margin: 3%;
+}
+.formContainer {
+  padding: 20px;
+}
+.submitButton {
+}
+.errorToast {
+  color: #ffebee;
+  background-color: rgb(223, 217, 209);
+}
+.successToast {
+  color: #e8f5e9 green;
+  background-color: rgb(223, 217, 209);
+}

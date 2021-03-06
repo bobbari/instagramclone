@@ -1,0 +1,32 @@
+.profile_container {
+  display: flex;
+  margin: 5% 20% 2% 20%;
+  justify-content: space-evenly;
+}
+.profile_inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.profilePageContainer {
+}
+.profile_status {
+  display: flex;
+  justify-content: space-between;
+}
+.profile_detail_container {
+  width: 70%;
+}
+.gallery {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  flex-flow: row wrap;
+  margin: auto;
+}
+.imageStyle {
+  width: 200px;
+  height: 210px;
+  padding: 20px;
+  border-radius: 50%;
+}
